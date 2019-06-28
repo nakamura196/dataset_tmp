@@ -1,18 +1,1 @@
-{
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://nakamura196.github.io/dataset_tmp/collections/tanaka/image/anno/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/p0002-annolist.json",
-    "@type": "sc:AnnotationList",
-    "resources": [
-        {
-            "@id": "https://nakamura196.github.io/dataset_tmp/collections/tanaka/image/anno/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/p0002-annolist.json#1",
-            "@type": "oa:Annotation",
-            "motivation": "sc:painting",
-            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p2#xywh=3695,503,2586,4022",
-            "resource": {
-                "@type": "cnt:ContentAsText",
-                "chars": "<p>和暦: 文久2?年<br/>西暦コード: 18620199099<br/>タイトル: 雁皮紙御うちは引札<br/>版種類: 木版<br/>数量: １枚<br/>書誌事項: 25.3×16.5　東都本町２丁目今井製<br/>形態分類: 引札<br/>内容分類: 諸営業<br/>帖数: 『捃拾帖』第11帖<br/>地名: 江戸<br/></p>",
-                "format": "text/html"
-            }
-        }
-    ]
-}
+{"@context": "http://iiif.io/api/presentation/2/context.json","@id": "https://nakamura196.github.io/dataset_tmp/collections/tanaka/image/anno/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/p0002-annolist.json","@type": "sc:AnnotationList","resources": [{"@id": "https://nakamura196.github.io/dataset_tmp/collections/tanaka/image/anno/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/p0002-annolist.json#1","@type": "oa:Annotation","motivation": "sc:painting","on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d09a5554-d84d-4f0f-b6e9-102755e7c2fa/canvas/p2#xywh=3695,503,2586,4022","resource": {"@type": "cnt:ContentAsText","chars": "和暦: 文久2?年\n西暦コード: 18620199099\nタイトル: 雁皮紙御うちは引札\n版種類: 木版\n数量: １枚\n書誌事項: 25.3×16.5　東都本町２丁目今井製\n形態分類: 引札\n内容分類: 諸営業\n帖数: 『捃拾帖』第11帖\n地名: 江戸\n","format": "text/plain"}}]}
